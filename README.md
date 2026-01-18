@@ -2,11 +2,29 @@
 
 **A Complete Philosophical Framework**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18290327.svg)](https://doi.org/10.5281/zenodo.18290327)
+
 Version 1.2 with Metamorphosis Extensions
 
 Author: Dillan J. Coghlan
 
 Compiled from conversations: August 2025 – January 2026
+
+---
+
+## Citation
+
+```bibtex
+@software{coghlan2026reflective,
+  author       = {Coghlan, Dillan John},
+  title        = {Reflective Humanism: A Complete Philosophical Framework},
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v1.2.0},
+  doi          = {10.5281/zenodo.18290327},
+  url          = {https://doi.org/10.5281/zenodo.18290327}
+}
+```
 
 ---
 
